@@ -1,0 +1,18 @@
+# Ignorar entornos virtuales
+venv/
+autom/
+.env
+.venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+
+selenium_profile/
+# Archivos de configuración de IDE
